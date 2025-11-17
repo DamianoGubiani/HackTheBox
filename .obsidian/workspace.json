@@ -11,14 +11,12 @@
             "id": "8e3454fb6e55bede",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HTB_tracks/AD_Exploit/Authority/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114161016.png"
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251114161016"
             }
           }
         ]
@@ -183,13 +181,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e3454fb6e55bede",
+  "active": "510e1a328560e543",
   "lastOpenFiles": [
-    "Pasted image 20251114161016.png",
+    "HTB_tracks/AD_Exploit/Authority/Notes.md",
+    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114161016.png",
     "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114144635.png",
     "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114141303.png",
     "HTB_tracks/AD_Exploit/Cicada/notes.md",
-    "HTB_tracks/AD_Exploit/Authority/Notes.md",
     "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114133654.png",
     "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114132812.png",
     "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114120123.png",

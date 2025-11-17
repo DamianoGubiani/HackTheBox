@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52673d6bf3c3c828",
+        "id": "9371c9e91daf0293",
         "type": "tabs",
         "children": [
           {
-            "id": "8e3454fb6e55bede",
+            "id": "39b1d6419c0fe4b6",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114161016.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251114161016"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -181,20 +179,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "510e1a328560e543",
+  "active": "39b1d6419c0fe4b6",
   "lastOpenFiles": [
+    "README.md",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115222836.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115222547.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115221252.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115220236.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115220048.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115205419.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115205239.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115203636.png",
+    "HTB_tracks/AD_Exploit/Scrambled/screen",
+    "HTB_tracks/AD_Exploit/Scrambled/notes.md",
+    "HTB_tracks/AD_Exploit/Scrambled",
+    "HTB_tracks/AD_Exploit/Escape/screen/Screenshot 2025-11-15 at 17.53.10.png",
+    "HTB_tracks/AD_Exploit/Escape/screen/Pasted image 20251116024858.png",
+    "HTB_tracks/AD_Exploit/Escape/screen",
+    "HTB_tracks/AD_Exploit/Escape/notes.md",
+    "HTB_tracks/AD_Exploit/Escape",
     "HTB_tracks/AD_Exploit/Authority/Notes.md",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114161016.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114144635.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114141303.png",
     "HTB_tracks/AD_Exploit/Cicada/notes.md",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114133654.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114132812.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114120123.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114120006.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114113640.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114085421.png",
-    "HTB_tracks/AD_Exploit/Authority/screen/Pasted image 20251114084516.png",
     "HTB_tracks/AD_Exploit/Authority/screen",
     "HTB_tracks/AD_Exploit/Authority"
   ]

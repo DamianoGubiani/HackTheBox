@@ -58,7 +58,7 @@ lets check the web page on port 55555
 
 ## Enumerating
 
-![](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126114027.png)
+![img1](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126114027.png)
 
 checking the wep app we di scover the fact that is powered by request-baskets version 1.2.1
 

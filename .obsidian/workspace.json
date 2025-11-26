@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 214.5
   },
   "right": {
     "id": "ab586d7fbf18e436",
@@ -183,8 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "510e1a328560e543",
+  "active": "a18093d6c15fdec9",
   "lastOpenFiles": [
+    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126183012.png",
+    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126182132.png",
+    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126180023.png",
+    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126175900.png",
+    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126154846.png",
+    "Tracks/Intro_To_RED_team/GoodGame/screen",
     "README.md",
     "Tracks/Intro_To_RED_team/GoodGame/notes.md",
     "screen/Pasted.md",
@@ -197,10 +203,6 @@
     "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114120006.png",
     "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114120123.png",
     "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114132812.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114133654.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114141303.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114144635.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114161016.png",
     "screen",
     "Tracks/Intro_To_RED_team/Jerry/notes.md",
     "Tracks/Intro_To_RED_team/Sau/notes.md",
@@ -216,7 +218,6 @@
     "Tracks/AD_Exploit/Cicada/notes.md",
     "Tracks/AD_Exploit/TimeLapse/notes.md",
     "Tracks/AD_Exploit/Scrambled/screen",
-    "Tracks/AD_Exploit/Scrambled",
-    "Tracks/AD_Exploit/Escape/screen"
+    "Tracks/AD_Exploit/Scrambled"
   ]
 }

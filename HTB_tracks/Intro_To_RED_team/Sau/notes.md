@@ -90,7 +90,7 @@ wget http://10.10.11.224:55555/fusaiir
 
 after that we open the downloaded file with firefox 
 
-![](Sau/screen/Pasted%20image%2020251126114927.png)
+![](screen/Pasted%20image%2020251126114927.png)
 
 we see that the page is running maltrail v0.53 lets on the internet for a public exploit to utilize on the application
 

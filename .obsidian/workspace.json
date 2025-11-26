@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39b1d6419c0fe4b6",
+            "id": "844c192bf065316d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,10 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "39b1d6419c0fe4b6",
+  "active": "844c192bf065316d",
   "lastOpenFiles": [
-    "HTB_tracks/Intro_To_RED_team/Jerry/notes.md",
+    "HTB_tracks/Intro_To_RED_team/GoodGame/notes.md",
+    "HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted image 20251126114027.png",
     "HTB_tracks/Intro_To_RED_team/Sau/notes.md",
+    "HTB_tracks/Intro_To_RED_team/GoodGame",
+    "HTB_tracks/Intro_To_RED_team/Jerry/notes.md",
+    "HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted image 20251126121919.png",
+    "HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted image 20251126121159.png",
+    "HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted image 20251126120110.png",
+    "HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted image 20251126114927.png",
+    "HTB_tracks/Intro_To_RED_team/Sau/screen/Pasted image 20251126114602.png",
+    "Pasted image 20251126114720.png",
+    "HTB_tracks/Intro_To_RED_team/Sau/screen",
     "HTB_tracks/Intro_To_RED_team/Sau",
     "Conversor/notes.md",
     "HTB_tracks/Intro_To_RED_team/Jerry",
@@ -201,20 +211,11 @@
     "README.md",
     "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115222836.png",
     "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115222547.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115221252.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115220236.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115220048.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115205419.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115205239.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115203636.png",
     "HTB_tracks/AD_Exploit/Scrambled/screen",
     "HTB_tracks/AD_Exploit/Scrambled/notes.md",
     "HTB_tracks/AD_Exploit/Scrambled",
-    "HTB_tracks/AD_Exploit/Escape/screen/Screenshot 2025-11-15 at 17.53.10.png",
     "HTB_tracks/AD_Exploit/Escape/screen",
     "HTB_tracks/AD_Exploit/Escape/notes.md",
-    "HTB_tracks/AD_Exploit/Escape",
-    "HTB_tracks/AD_Exploit/Authority/screen",
-    "HTB_tracks/AD_Exploit/Authority"
+    "HTB_tracks/AD_Exploit/Escape"
   ]
 }

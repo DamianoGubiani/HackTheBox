@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Intro_To_RED_team/Paper/Notes.md",
+                "file": "Tracks/Intro_To_RED_team/Writeup/notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "notes"
             }
           }
         ]
@@ -186,6 +186,10 @@
   "active": "a18093d6c15fdec9",
   "lastOpenFiles": [
     "Tracks/Intro_To_RED_team/Precious/notes.md",
+    "Tracks/Intro_To_RED_team/Writeup/notes.md",
+    "Tracks/Intro_To_RED_team/Writeup",
+    "TODO.md",
+    "2025-11-27.md",
     "Tracks/Intro_To_RED_team/Paper/Notes.md",
     "Tracks/Intro_To_RED_team/Precious",
     "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164918.png",
@@ -215,8 +219,6 @@
     "Tracks/Intro_To_RED_team/Sau",
     "Conversor/notes.md",
     "Tracks/Intro_To_RED_team/Jerry",
-    "Tracks/Intro_To_RED_team",
-    "Untitled.md",
     "Tracks/AD_Exploit/EscapeTwo/notes.md",
     "Tracks/AD_Exploit/Cicada/notes.md",
     "Tracks/AD_Exploit/TimeLapse/notes.md"

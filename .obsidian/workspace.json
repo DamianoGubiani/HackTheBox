@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracks/Intro_To_RED_team/GoodGame/notes.md",
+                "file": "Tracks/Intro_To_RED_team/Paper/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "Notes"
             }
           }
         ]
@@ -183,29 +183,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "a18093d6c15fdec9",
+  "active": "510e1a328560e543",
   "lastOpenFiles": [
-    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126183012.png",
-    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126182132.png",
-    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126180023.png",
-    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126175900.png",
-    "Tracks/Intro_To_RED_team/GoodGame/screen/Pasted image 20251126154846.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164918.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164820.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164442.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164023.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163906.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163807.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163702.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163538.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163433.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127162750.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127162329.png",
+    "Tracks/Intro_To_RED_team/Sau/notes.md",
+    "Tracks/Intro_To_RED_team/Paper/Notes.md",
+    "Tracks/Intro_To_RED_team/Paper/screen",
+    "Tracks/Intro_To_RED_team/GoodGame/notes.md",
+    "Tracks/Intro_To_RED_team/Paper",
     "Tracks/Intro_To_RED_team/GoodGame/screen",
     "README.md",
-    "Tracks/Intro_To_RED_team/GoodGame/notes.md",
     "screen/Pasted.md",
     "Tracks/AD_Exploit/Scrambled/notes.md",
     "Tracks/AD_Exploit/Escape/notes.md",
     "Tracks/AD_Exploit/Authority/Notes.md",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114084516.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114085421.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114113640.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114120006.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114120123.png",
-    "Tracks/AD_Exploit/Authority/screen/Pasted image 20251114132812.png",
     "screen",
     "Tracks/Intro_To_RED_team/Jerry/notes.md",
-    "Tracks/Intro_To_RED_team/Sau/notes.md",
     "Tracks/Intro_To_RED_team/GoodGame",
     "Tracks/Intro_To_RED_team/Sau/screen",
     "Tracks/Intro_To_RED_team/Sau",
@@ -216,8 +219,6 @@
     "Untitled.md",
     "Tracks/AD_Exploit/EscapeTwo/notes.md",
     "Tracks/AD_Exploit/Cicada/notes.md",
-    "Tracks/AD_Exploit/TimeLapse/notes.md",
-    "Tracks/AD_Exploit/Scrambled/screen",
-    "Tracks/AD_Exploit/Scrambled"
+    "Tracks/AD_Exploit/TimeLapse/notes.md"
   ]
 }

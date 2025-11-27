@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80be96746265a6d2",
+        "id": "42141e301de0ffe5",
         "type": "tabs",
         "children": [
           {
-            "id": "e006e663556ea7a9",
+            "id": "a18093d6c15fdec9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tracks/Intro_To_RED_team/Writeup/notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "notes"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 214.5
   },
   "right": {
     "id": "ab586d7fbf18e436",
@@ -179,33 +183,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "e006e663556ea7a9",
+  "active": "a18093d6c15fdec9",
   "lastOpenFiles": [
-    "HTB_tracks/AD_Exploit/Escape/notes.md",
-    "HTB_tracks/AD_Exploit/StreamIO/notes.md",
-    "HTB_tracks/AD_Exploit/Scrambled/notes.md",
-    "HTB_tracks/AD_Exploit/StreamIO/screen",
-    "HTB_tracks/AD_Exploit/StreamIO",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115222836.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115222547.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115221252.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115220236.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115220048.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115205239.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115205419.png",
-    "HTB_tracks/AD_Exploit/Scrambled/screen/Pasted image 20251115203636.png",
-    "HTB_tracks/AD_Exploit/Authority/Notes.md",
-    "HTB_tracks/AD_Exploit/Scrambled/screen",
-    "HTB_tracks/AD_Exploit/Scrambled",
-    "HTB_tracks/AD_Exploit/Escape/screen/Pasted image 20251116024858.png",
-    "HTB_tracks/AD_Exploit/Escape/screen/Pasted image 20251116024431.png",
+    "Tracks/Intro_To_RED_team/Precious/notes.md",
+    "Tracks/Intro_To_RED_team/Writeup/notes.md",
+    "Tracks/Intro_To_RED_team/Writeup",
+    "TODO.md",
+    "2025-11-27.md",
+    "Tracks/Intro_To_RED_team/Paper/Notes.md",
+    "Tracks/Intro_To_RED_team/Precious",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164918.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164820.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164442.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127164023.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163906.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163807.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163702.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163538.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127163433.png",
+    "Tracks/Intro_To_RED_team/Paper/screen/Pasted image 20251127162750.png",
+    "Tracks/Intro_To_RED_team/Sau/notes.md",
+    "Tracks/Intro_To_RED_team/Paper/screen",
+    "Tracks/Intro_To_RED_team/GoodGame/notes.md",
+    "Tracks/Intro_To_RED_team/Paper",
+    "Tracks/Intro_To_RED_team/GoodGame/screen",
     "README.md",
-    "HTB_tracks/AD_Exploit/Escape/screen",
-    "HTB_tracks/AD_Exploit/Escape",
-    "Codify/notes.md",
-    "Devvortex/notes.md",
-    "HTB_tracks/AD_Exploit/Cicada/notes.md",
-    "HTB_tracks/AD_Exploit/Authority/screen",
-    "HTB_tracks/AD_Exploit/Authority"
+    "screen/Pasted.md",
+    "Tracks/AD_Exploit/Scrambled/notes.md",
+    "Tracks/AD_Exploit/Escape/notes.md",
+    "Tracks/AD_Exploit/Authority/Notes.md",
+    "screen",
+    "Tracks/Intro_To_RED_team/Jerry/notes.md",
+    "Tracks/Intro_To_RED_team/GoodGame",
+    "Tracks/Intro_To_RED_team/Sau/screen",
+    "Tracks/Intro_To_RED_team/Sau",
+    "Conversor/notes.md",
+    "Tracks/Intro_To_RED_team/Jerry",
+    "Tracks/AD_Exploit/EscapeTwo/notes.md",
+    "Tracks/AD_Exploit/Cicada/notes.md",
+    "Tracks/AD_Exploit/TimeLapse/notes.md"
   ]
 }

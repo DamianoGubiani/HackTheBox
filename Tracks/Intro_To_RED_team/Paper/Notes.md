@@ -120,7 +120,7 @@ we can see that this version of wordpress is outdated , in fact checking online 
 
 > https://www.exploit-db.com/exploits/47690
 
-basicly we can leak secret contact with this payload
+basicly we can leak secrets with this payload
 
 ```
 /?static=1

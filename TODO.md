@@ -1,7 +1,11 @@
-# Date 3/12/2025
+# writeups
 
-writeups for:
-- writeups
-- Precious
-- Expressway
-- Gavel
+writeups
+Precious
+Expressway
+
+# TJ null's list
+
+adminer
+
+

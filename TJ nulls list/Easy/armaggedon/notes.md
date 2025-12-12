@@ -56,7 +56,6 @@ Read data files from: /usr/share/nmap
 
 we alredy know the webapp is running drupal version 7 lets check online for public exploit
 
-
 # Exploit
 
 i found this PoC on github 
@@ -150,6 +149,8 @@ link:
 
 >https://gtfobins.github.io/gtfobins/
 
+Privilege Vector:
+
 ![](screen/Pasted%20image%2020251212174002.png)
 
 i made a script to automate this so:
@@ -192,9 +193,10 @@ rlwrap nc -lvvnp 4444
 finaly we run the exploit on the target machine
 
 ```bash
-sudo snap install exploit_1.0_all.snap --dangerous --devmode
+sudo /usr/sbin/snap install exploit_1.0_all.snap --dangerous --devmode
 ```
 
 and we got a root shell
 
 ![](screen/Pasted%20image%2020251212175615.png)
+

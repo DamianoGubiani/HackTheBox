@@ -1,11 +1,12 @@
 # writeups
 
-writeups
-Precious
-Expressway
+- writeups
+- Precious
+- Expressway
 
 # TJ null's list
 
-adminer
+- adminer
+- blocky
 
 

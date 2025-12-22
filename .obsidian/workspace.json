@@ -185,8 +185,16 @@
   },
   "active": "a18093d6c15fdec9",
   "lastOpenFiles": [
-    "TODO.md",
+    "Tracks/AD_Exploit/TimeLapse/notes.md",
     "README.md",
+    "Tracks/AD_Exploit/Support/notes.md",
+    "Tracks/AD_Exploit/StreamIO/notes.md",
+    "Tracks/AD_Exploit/Scrambled/notes.md",
+    "Tracks/AD_Exploit/Return/notes.md",
+    "Tracks/AD_Exploit/EscapeTwo/notes.md",
+    "TODO.md",
+    "Tracks/AD_Exploit/Escape/notes.md",
+    "Tracks/AD_Exploit/Cicada/notes.md",
     "Tracks/AD_Exploit/Authority/Notes.md",
     "Machine/Hard/darkzero",
     "Machine/Medium/haircut",
@@ -223,14 +231,6 @@
     "TJ nulls list/Easy/linux/blunder/notes.md",
     "TJ nulls list/Easy/Untitled.md",
     "TJ nulls list/Easy/linux/blocky/note.md",
-    "TJ nulls list/Easy/blocky/notes.md",
-    "Untitled.canvas",
-    "TJ nulls list/Easy/Easy box check list.md",
-    "TJ nulls list/list.md",
-    "Machine/Medium/previous/notes.md",
-    "Machine/Medium/Gavel/notes.md",
-    "Machine/Easy/Expressway/notes.md",
-    "Tracks/Intro_To_RED_team/GoodGame/notes.md",
-    "Tracks/Intro_To_RED_team/Writeup/notes.md"
+    "Untitled.canvas"
   ]
 }

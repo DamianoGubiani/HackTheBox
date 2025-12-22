@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "README"
             }
           }
         ]
@@ -183,13 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "510e1a328560e543",
+  "active": "a18093d6c15fdec9",
   "lastOpenFiles": [
+    "TODO.md",
+    "README.md",
+    "Tracks/AD_Exploit/Authority/Notes.md",
     "Machine/Hard/darkzero",
     "Machine/Medium/haircut",
     "TJ nulls list/Easy/linux/blunder",
     "TJ nulls list/Easy/linux/Untitled.md",
-    "TODO.md",
     "TJ nulls list/Tj Null's LIST.pdf",
     "TJ nulls list/acrolock19252.3.4251093264.tmp",
     "TJ nulls list/Easy/windows/active",
@@ -200,12 +202,10 @@
     "TJ nulls list/Easy/windows/arctic/notes.md",
     "TJ nulls list/Easy/windows/arctic",
     "TJ nulls list/Easy/windows/Blue/notes.md",
-    "TJ nulls list/Easy/windows/Blue",
     "TJ nulls list/Easy/linux/bashed/notes.md",
     "TJ nulls list/Easy/linux/blocky/notes.md",
     "TJ nulls list/Easy/linux/Beep/notes.md",
     "TJ nulls list/Easy/linux/armaggedon/notes.md",
-    "README.md",
     "Machine/Easy/Broker/notes.md",
     "TJ nulls list/Easy/linux/armaggedon/screen/Pasted image 20251212175615.png",
     "TJ nulls list/Easy/linux/armaggedon/screen/Pasted image 20251212174002.png",

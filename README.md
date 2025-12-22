@@ -1,3 +1,4 @@
+# HTB Writeups
 
 This repository contains my personal collection of Hack The Box (HTB) writeups, documenting the techniques, methodologies, and thought processes I used while enumerating, exploiting, and escalating privileges on various machines and challenges.  
 

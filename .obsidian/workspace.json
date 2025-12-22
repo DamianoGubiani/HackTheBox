@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TJ nulls list/Easy/linux/blunder/notes.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "TODO"
             }
           }
         ]
@@ -183,20 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "a18093d6c15fdec9",
+  "active": "510e1a328560e543",
   "lastOpenFiles": [
-    "TJ nulls list/Easy/Untitled.md",
-    "TJ nulls list/Easy/linux/blunder/notes.md",
-    "TJ nulls list/Easy/linux/blunder",
-    "TJ nulls list/Easy/linux",
-    "TJ nulls list/Easy/windows",
+    "Machine/Hard",
+    "Machine/Medium",
+    "Machine/Easy/codepart2",
+    "Machine/Easy/writeups",
+    "Machine/Easy/precious",
     "TJ nulls list/Tj Null's LIST.pdf",
     "TODO.md",
+    "TJ nulls list/Easy/windows/arctic",
+    "TJ nulls list/Easy/windows/blue",
+    "TJ nulls list/Easy/linux/bashed",
+    "TJ nulls list/Easy/linux/blunder/notes.md",
+    "TJ nulls list/Easy/Untitled.md",
+    "TJ nulls list/Easy/linux/blunder",
+    "TJ nulls list/Easy/linux",
     "TJ nulls list/Easy/linux/blocky/note.md",
-    "TJ nulls list/Easy/blocky/notes",
-    "TJ nulls list/Easy/linux/blocky",
     "TJ nulls list/Easy/blocky/notes.md",
-    "TJ nulls list/Easy/linux/blocky",
     "TJ nulls list/Easy/linux/armaggedon/notes.md",
     "TJ nulls list/Easy/linux/armaggedon/screen/Pasted image 20251212175615.png",
     "TJ nulls list/Easy/linux/armaggedon/screen/Pasted image 20251212174002.png",
@@ -208,12 +212,9 @@
     "TJ nulls list/Easy/linux/armaggedon/screen/Pasted image 20251212173041.png",
     "TJ nulls list/Easy/linux/armaggedon/screen/Pasted image 20251212172924.png",
     "TJ nulls list/Easy/linux/armaggedon/screen/Pasted image 20251212172442.png",
-    "TJ nulls list/Easy/linux/armaggedon/screen",
     "TJ nulls list/Easy/windows/active/notes.md",
     "TJ nulls list/Easy/linux/admirer/notes.md",
     "Untitled.canvas",
-    "TJ nulls list/Easy/linux/armaggedon",
-    "TJ nulls list/Easy/linux/admirer/screen",
     "TJ nulls list/Easy/Easy box check list.md",
     "README.md",
     "TJ nulls list/list.md",
@@ -230,7 +231,6 @@
     "Tracks/AD_Exploit/Scrambled/notes.md",
     "Tracks/AD_Exploit/Escape/notes.md",
     "Tracks/AD_Exploit/Authority/Notes.md",
-    "Tracks/Intro_To_RED_team/Jerry/notes.md",
-    "Machine/Easy/Conversor/notes.md"
+    "Tracks/Intro_To_RED_team/Jerry/notes.md"
   ]
 }

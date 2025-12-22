@@ -4,6 +4,8 @@
 - Precious
 - Expressway
 - codepart2
+- haircut
+- darkzero
 
 # TJ null's list
 

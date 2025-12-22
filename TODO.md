@@ -7,7 +7,8 @@
 
 # TJ null's list
 
-- adminer
+- admirer
+- active
 - blocky
 - arctic
 - bastion

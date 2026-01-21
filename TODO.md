@@ -6,6 +6,9 @@
 - codepart2
 - haircut
 - darkzero
+- job
+- manage
+- data
 
 # TJ null's list
 
@@ -17,5 +20,8 @@
 - blue
 - bashed
 - blunder
+- bounty
+- delivery
+- devel
 
 

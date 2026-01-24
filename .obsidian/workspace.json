@@ -18,21 +18,8 @@
               "icon": "lucide-file-text",
               "title": "Tj Null's LIST"
             }
-          },
-          {
-            "id": "0600857126102c66",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TJ nulls list/Tj Null's LIST.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Tj Null's LIST"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +178,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "cfee95b29f2a4fe8",
+  "active": "1a47bf4f8866bcc8",
   "lastOpenFiles": [
     "TJ nulls list/Easy/Linux/Blunder",
     "TODO.md",

@@ -13,7 +13,7 @@
 # TJ null's list
 
 - blocky
-- arctic
+- Admirer
 - bastion
 - blue
 - bashed

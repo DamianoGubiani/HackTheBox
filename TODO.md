@@ -12,8 +12,6 @@
 
 # TJ null's list
 
-- admirer
-- active
 - blocky
 - arctic
 - bastion

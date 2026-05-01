@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TJ nulls list/Easy/Windows/Arctic/notes.md",
+                "file": "TJ nulls list/Easy/Windows/Bastion/note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "note"
             }
           }
         ]
@@ -183,14 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "bf0831eaa3db1e3e",
+  "active": "510e1a328560e543",
   "lastOpenFiles": [
+    "TJ nulls list/Easy/Windows/Arctic/note.md",
     "TJ nulls list/Easy/Windows/Blue/note.md",
+    "TJ nulls list/Easy/Windows/Bastion/note.md",
+    "TJ nulls list/Easy/Windows/Active/note.md",
     "TODO.md",
     "TJ nulls list/Tj Null's LIST.pdf",
     "TJ nulls list/Easy/Windows/Blue/Screen",
     "TJ nulls list/Easy/Windows/Blue",
-    "TJ nulls list/Easy/Windows/Bastion/notes.md",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501012441.png",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501023547.png",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501023438.png",
@@ -201,7 +203,6 @@
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501020702.png",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501020613.png",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501015900.png",
-    "TJ nulls list/Easy/Windows/Arctic/notes.md",
     "Tracks/Intro_To_RED_team/GoodGame/notes.md",
     "Tracks/AD_Exploit/EscapeTwo/notes.md",
     "Tracks/AD_Exploit/Escape/notes.md",
@@ -211,7 +212,6 @@
     "TJ nulls list/Easy/Linux/Blocky/notes.md",
     "TJ nulls list/Easy/Linux/Beep/notes.md",
     "TJ nulls list/Easy/Linux/Bashed/notes.md",
-    "TJ nulls list/Easy/Windows/Active/note.md",
     "TJ nulls list/Easy/Windows/Active/screen",
     "TJ nulls list/Easy/Windows/Active",
     "README.md",

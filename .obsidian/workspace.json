@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TJ nulls list/Easy/Windows/Bastion/note.md",
+                "file": "TJ nulls list/Easy/Linux/Bashed/note.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 214.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab586d7fbf18e436",
@@ -183,14 +184,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "510e1a328560e543",
+  "active": "bf0831eaa3db1e3e",
   "lastOpenFiles": [
-    "TJ nulls list/Easy/Windows/Arctic/note.md",
-    "TJ nulls list/Easy/Windows/Blue/note.md",
-    "TJ nulls list/Easy/Windows/Bastion/note.md",
-    "TJ nulls list/Easy/Windows/Active/note.md",
-    "TODO.md",
+    "TJ nulls list/Easy/Linux/Bashed/Screen",
     "TJ nulls list/Tj Null's LIST.pdf",
+    "TJ nulls list/Easy/Linux/Bashed/note.md",
+    "TJ nulls list/Easy/Linux/Bashed",
+    "TODO.md",
+    "TJ nulls list/Easy/Windows/Blue/note.md",
+    "TJ nulls list/Easy/Windows/Blue/Screen/Pasted image 20260501034542.png",
+    "TJ nulls list/Easy/Windows/Bastion/note.md",
+    "TJ nulls list/Easy/Windows/Arctic/note.md",
+    "TJ nulls list/Easy/Windows/Active/note.md",
     "TJ nulls list/Easy/Windows/Blue/Screen",
     "TJ nulls list/Easy/Windows/Blue",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501012441.png",
@@ -202,7 +207,6 @@
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501022122.png",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501020702.png",
     "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501020613.png",
-    "TJ nulls list/Easy/Windows/Bastion/Screen/Pasted image 20260501015900.png",
     "Tracks/Intro_To_RED_team/GoodGame/notes.md",
     "Tracks/AD_Exploit/EscapeTwo/notes.md",
     "Tracks/AD_Exploit/Escape/notes.md",
@@ -226,10 +230,8 @@
     "TJ nulls list/Easy/Windows/Arctic/Screen",
     "TJ nulls list/Easy/Windows/Arctic",
     "TJ nulls list/acrolock29636.3.3473615133.tmp",
-    "Machine/Medium/Vulncicada",
     "Tracks/AD_Exploit/TimeLapse/notes.md",
     "Tracks/AD_Exploit/Support/notes.md",
-    "Tracks/AD_Exploit/StreamIO/notes.md",
     "Untitled.canvas"
   ]
 }

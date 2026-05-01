@@ -14,7 +14,6 @@
 
 - blocky
 - Admirer
-- blue
 - bashed
 - blunder
 - bounty

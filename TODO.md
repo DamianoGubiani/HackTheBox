@@ -14,7 +14,6 @@
 
 - blocky
 - Admirer
-- bastion
 - blue
 - bashed
 - blunder

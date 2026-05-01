@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TJ nulls list/Easy/Windows/Blue/note.md",
+                "file": "TJ nulls list/Easy/Windows/Arctic/notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "notes"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5,
-    "collapsed": true
+    "width": 214.5
   },
   "right": {
     "id": "ab586d7fbf18e436",
@@ -186,9 +185,9 @@
   },
   "active": "bf0831eaa3db1e3e",
   "lastOpenFiles": [
+    "TJ nulls list/Easy/Windows/Blue/note.md",
     "TODO.md",
     "TJ nulls list/Tj Null's LIST.pdf",
-    "TJ nulls list/Easy/Windows/Blue/note.md",
     "TJ nulls list/Easy/Windows/Blue/Screen",
     "TJ nulls list/Easy/Windows/Blue",
     "TJ nulls list/Easy/Windows/Bastion/notes.md",

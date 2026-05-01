@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "673560fac09dd762",
+        "id": "8b514f4a9891e8f6",
         "type": "tabs",
         "children": [
           {
-            "id": "c02d54e37192fdd9",
+            "id": "38e9fa33aac283eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TJ nulls list/Easy/Windows/Bounty/note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "note"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5,
-    "collapsed": true
+    "width": 214.5
   },
   "right": {
     "id": "ab586d7fbf18e436",
@@ -184,13 +179,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "c02d54e37192fdd9",
+  "active": "38e9fa33aac283eb",
   "lastOpenFiles": [
-    "TODO.md",
+    "TJ nulls list/Easy/Windows/Bounty/Screen/Pasted image 20260501183322.png",
+    "TJ nulls list/Easy/Windows/Bounty/Screen/Pasted image 20260501183031.png",
     "TJ nulls list/Easy/Windows/Bounty/note.md",
+    "TJ nulls list/Easy/Linux/Bashed/note.md",
+    "TODO.md",
     "TJ nulls list/Easy/Windows/Bounty/Screen",
     "TJ nulls list/Easy/Windows/Bounty",
-    "TJ nulls list/Easy/Linux/Bashed/note.md",
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501174506.png",
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501182158.png",
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501181341.png",
@@ -199,8 +196,6 @@
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501174733.png",
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501173526.png",
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501173613.png",
-    "Pasted image 20260501173608.png",
-    "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501172604.png",
     "TJ nulls list/Easy/Linux/Bashed/Screen",
     "TJ nulls list/Tj Null's LIST.pdf",
     "TJ nulls list/Easy/Linux/Bashed",
@@ -231,7 +226,6 @@
     "Machine/Easy/Active/notes.md",
     "TJ nulls list/Easy/Windows/Blue/notes.md",
     "Tracks/AD_Exploit/TimeLapse/notes.md",
-    "Tracks/AD_Exploit/Support/notes.md",
     "Untitled.canvas"
   ]
 }

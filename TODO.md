@@ -11,13 +11,8 @@
 
 # TJ null's list
 
-- admirer
-- active
 - blocky
-- arctic
-- bastion
-- blue
-- bashed
+- Admirer
 - blunder
 - bounty
 - delivery

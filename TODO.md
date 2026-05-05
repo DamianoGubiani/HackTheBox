@@ -1,4 +1,4 @@
-# writeups
+# Writeups
 
 - writeups
 - Precious
@@ -17,6 +17,8 @@
 - bounty
 - delivery
 - devel
+- doctor
+- forest
 
 # Intro to RedTeam
 

@@ -2,13 +2,12 @@
 
 - writeups
 - Precious
-- Expressway
 - codepart2
 - haircut
 - darkzero
 - job
 - manage
-- data
+- vulncicada
 
 # TJ null's list
 
@@ -24,4 +23,15 @@
 - delivery
 - devel
 
+# Intro to RedTeam
 
+- Driver
+- Certified 
+- 2Million
+- Administrator
+
+# CPTS prep
+
+- fluffy
+- jeeves
+- Postman

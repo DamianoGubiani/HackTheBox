@@ -1,4 +1,4 @@
-## Box: Devvortex
+# Box: Devvortex
 
 > damiano gubiani
 
@@ -195,7 +195,6 @@ created sample crash and after viewing it with the command
 
 ```bash
 sudo /usr/bin/apport-cli -c /some/report
-
 ```
 
 executed the !/bin/bash in the view tab

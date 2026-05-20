@@ -19,6 +19,7 @@
 - devel
 - doctor
 - forest
+- nibbles
 
 # Intro to RedTeam
 

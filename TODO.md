@@ -28,9 +28,3 @@
 - Certified 
 - 2Million
 - Administrator
-
-# CPTS prep
-
-- fluffy
-- jeeves
-- Postman

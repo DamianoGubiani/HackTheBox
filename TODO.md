@@ -8,6 +8,7 @@
 - job
 - manage
 - vulncicada
+- planning
 
 # TJ null's list
 

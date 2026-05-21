@@ -11,6 +11,8 @@ this file serve to keep track of the writeup i need to make of the machine i pwn
 - job
 - manage
 - vulncicada
+- planning
+- down
 
 # TJ null's list
 
@@ -22,10 +24,7 @@ this file serve to keep track of the writeup i need to make of the machine i pwn
 - devel
 - doctor
 - forest
-- horizontall
-- irked
-- jerry
-- knife
+- nibbles
 
 # Intro to RedTeam
 
@@ -33,9 +32,3 @@ this file serve to keep track of the writeup i need to make of the machine i pwn
 - Certified 
 - 2Million
 - Administrator
-
-# CPTS prep
-
-- fluffy
-- jeeves
-- Postman

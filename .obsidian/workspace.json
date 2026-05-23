@@ -11,12 +11,14 @@
             "id": "a18093d6c15fdec9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TJ nulls list/Tj Null's LIST.pdf"
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Tj Null's LIST"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -183,9 +185,9 @@
   },
   "active": "a18093d6c15fdec9",
   "lastOpenFiles": [
+    "TJ nulls list/Tj Null's LIST.pdf",
     "TJ nulls list/Tj Null's LIST.pdf.sb-4cb4941e-LyLaib",
     "TODO.md",
-    "TJ nulls list/Tj Null's LIST.pdf",
     "TJ nulls list/Tj Null's LIST.pdf.sb-4cb4941e-Sbt3aG",
     "TJ nulls list/Tj Null's LIST.pdf.sb-4cb4941e-dPH4G4",
     "TJ nulls list/Easy/Horizontall",

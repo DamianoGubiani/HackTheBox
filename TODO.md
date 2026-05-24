@@ -1,15 +1,22 @@
-# writeups
+
+_this file serve to keep track of the writeup i need to make of the machine i pwned_
+
+# Writeups
 
 - writeups
 - Precious
-- Expressway
 - codepart2
 - haircut
 - darkzero
 - job
 - manage
-- data
-- previse
+- vulncicada
+- planning
+- down
+- shocker
+- sense
+- sunday
+- academy
 
 # TJ null's list
 
@@ -19,5 +26,13 @@
 - bounty
 - delivery
 - devel
+- doctor
+- forest
+- nibbles
 
+# Intro to RedTeam
 
+- Driver
+- Certified 
+- 2Million
+- Administrator

@@ -17,6 +17,7 @@ _this file serve to keep track of the writeup i need to make of the machine i pw
 - sense
 - sunday
 - academy
+- previse
 
 # TJ null's list
 

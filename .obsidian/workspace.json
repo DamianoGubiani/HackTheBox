@@ -11,10 +11,14 @@
             "id": "38e9fa33aac283eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TODO"
             }
           }
         ]
@@ -181,11 +185,15 @@
   },
   "active": "38e9fa33aac283eb",
   "lastOpenFiles": [
+    "TJ nulls list/Easy/Linux/Doctor/note.md",
+    "TJ nulls list/Easy/Linux/Doctor/Screen",
+    "TJ nulls list/Tj Null's LIST.pdf",
+    "TJ nulls list/Easy/Linux/Doctor",
+    "TJ nulls list/Easy/Linux/Bashed/note.md",
+    "TODO.md",
     "TJ nulls list/Easy/Windows/Bounty/Screen/Pasted image 20260501183322.png",
     "TJ nulls list/Easy/Windows/Bounty/Screen/Pasted image 20260501183031.png",
     "TJ nulls list/Easy/Windows/Bounty/note.md",
-    "TJ nulls list/Easy/Linux/Bashed/note.md",
-    "TODO.md",
     "TJ nulls list/Easy/Windows/Bounty/Screen",
     "TJ nulls list/Easy/Windows/Bounty",
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501174506.png",
@@ -197,7 +205,6 @@
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501173526.png",
     "TJ nulls list/Easy/Linux/Bashed/Screen/Pasted image 20260501173613.png",
     "TJ nulls list/Easy/Linux/Bashed/Screen",
-    "TJ nulls list/Tj Null's LIST.pdf",
     "TJ nulls list/Easy/Linux/Bashed",
     "TJ nulls list/Easy/Windows/Blue/note.md",
     "TJ nulls list/Easy/Windows/Bastion/note.md",
@@ -214,8 +221,6 @@
     "TJ nulls list/Easy/Linux/Blocky/notes.md",
     "TJ nulls list/Easy/Linux/Beep/notes.md",
     "TJ nulls list/Easy/Linux/Bashed/notes.md",
-    "TJ nulls list/Easy/Windows/Active/screen",
-    "TJ nulls list/Easy/Windows/Active",
     "README.md",
     "Machine/Medium/Vulncicada/notes.md",
     "Machine/Easy/Expressway/notes.md",
@@ -225,7 +230,6 @@
     "Machine/Easy/Broker/notes.md",
     "Machine/Easy/Active/notes.md",
     "TJ nulls list/Easy/Windows/Blue/notes.md",
-    "Tracks/AD_Exploit/TimeLapse/notes.md",
     "Untitled.canvas"
   ]
 }

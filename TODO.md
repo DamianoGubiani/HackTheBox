@@ -9,6 +9,7 @@
 - job
 - manage
 - data
+- previse
 
 # TJ null's list
 

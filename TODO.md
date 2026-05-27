@@ -18,6 +18,8 @@ _this file serve to keep track of the writeup i need to make of the machine i pw
 - sunday
 - academy
 - previse
+- trick
+- Antique
 
 # TJ null's list
 

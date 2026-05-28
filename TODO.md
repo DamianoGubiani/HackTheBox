@@ -20,6 +20,8 @@ _this file serve to keep track of the writeup i need to make of the machine i pw
 - previse
 - trick
 - Antique
+- secret
+- Nunchucks
 
 # TJ null's list
 
